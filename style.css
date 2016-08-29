@@ -1,0 +1,33 @@
+
+
+body {
+	background-color: #B0C4DE;
+  font-family: cursive;
+  font-size:120%;
+}
+p {
+	line-height: 1.999em;
+	color: #A52A2A;
+}
+
+h1 {
+	text-align: center;
+	font-variant: small-caps;
+	color: #CD5C5C;
+}
+h3 {
+	font-weight: bolder;
+	text-align: center;
+	color: #566D7E;
+  font-family: "Palatino Linotype";
+	font-variant: small-caps;
+}
+
+IMG.imgLocation {
+    display: block;
+		padding:4px;
+    border:2px solid #7CFC00;
+    background-color:#FF00FF;
+    margin-left: auto;
+    margin-right: auto
+	}
